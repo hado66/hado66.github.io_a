@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 飞雪无情的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="https://hado66.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 21:00:00 +0800</lastBuildDate><atom:link href="https://hado66.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vue</title>
+      <link>https://hado66.github.io/categories/vue/</link>
+      <pubDate>Sat, 01 May 2021 21:00:00 +0800</pubDate>
+      
+      <guid>https://hado66.github.io/categories/vue/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Golang</title>
       <link>https://hado66.github.io/categories/Golang/</link>
